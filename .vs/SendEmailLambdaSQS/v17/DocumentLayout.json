@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|c:\\users\\hardik\\source\\repos\\sendemaillambdasqs\\sendemaillambdasqs\\src\\sendemaillambdasqs\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|solutionrelative:sendemaillambdasqs\\src\\sendemaillambdasqs\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|c:\\users\\hardik\\source\\repos\\sendemaillambdasqs\\sendemaillambdasqs\\src\\sendemaillambdasqs\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|solutionrelative:sendemaillambdasqs\\src\\sendemaillambdasqs\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|c:\\users\\hardik\\source\\repos\\sendemaillambdasqs\\sendemaillambdasqs\\src\\sendemaillambdasqs\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}|SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\SendEmailLambdaSQS.csproj|solutionrelative:sendemaillambdasqs\\src\\sendemaillambdasqs\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aws-lambda-tools-defaults.json",
+              "DocumentMoniker": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\aws-lambda-tools-defaults.json",
+              "RelativeDocumentMoniker": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\aws-lambda-tools-defaults.json",
+              "ToolTip": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\aws-lambda-tools-defaults.json",
+              "RelativeToolTip": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\aws-lambda-tools-defaults.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T12:32:33.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Models.cs",
+              "RelativeDocumentMoniker": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Models.cs",
+              "ToolTip": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Models.cs",
+              "RelativeToolTip": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:57:21.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Function.cs",
+              "RelativeDocumentMoniker": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Function.cs",
+              "ToolTip": "C:\\Users\\hardik\\source\\repos\\SendEmailLambdaSQS\\SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Function.cs",
+              "RelativeToolTip": "SendEmailLambdaSQS\\src\\SendEmailLambdaSQS\\Function.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:55:18.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

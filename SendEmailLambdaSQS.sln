@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendEmailLambdaSQS", "SendEmailLambdaSQS\src\SendEmailLambdaSQS\SendEmailLambdaSQS.csproj", "{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB01453-6D4E-4C39-971C-E90F0CDC1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304E529A-DF66-45F3-BCD5-DD368F811D8E}
+	EndGlobalSection
+EndGlobal
